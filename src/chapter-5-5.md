@@ -1,5 +1,3 @@
-Decision Support Systems and Optimization Tools
-===============================================================================================================
 
 In this chapter, we'll focus on decision support systems and optimization tools as AI-based strategic planning techniques and strategies. These tools enable organizations to make data-driven decisions and optimize their operations for greater efficiency and effectiveness.
 

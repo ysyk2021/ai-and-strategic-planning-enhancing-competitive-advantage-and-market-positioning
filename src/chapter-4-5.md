@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-============================================================================================
 
 In this chapter, we'll explore the importance of collecting and analyzing regulatory and compliance data for strategic planning. With the rise of AI-based strategic planning, regulatory and compliance data have become even more critical for organizations looking to gain a competitive advantage and improve their market positioning.
 

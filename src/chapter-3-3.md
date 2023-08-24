@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Strategic Planning
-===========================================================================================================
 
 In this chapter, we'll provide case studies on the use of AI in strategic planning. These case studies demonstrate the effectiveness of AI-based strategic planning techniques and strategies and highlight the benefits that can be achieved through their implementation.
 

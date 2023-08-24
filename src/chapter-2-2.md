@@ -1,5 +1,3 @@
-Traditional Approaches to Strategic Planning
-=======================================================================================
 
 In this chapter, we'll explore traditional approaches to strategic planning. While these methods may have limitations and challenges, they have been effective in the past and continue to be used by many organizations today.
 

@@ -1,5 +1,3 @@
-Financial and Operational Data
-============================================================================================
 
 In this chapter, we'll explore the importance of collecting and analyzing financial and operational data for strategic planning. Financial and operational data are critical components of strategic planning, providing insights into an organization's performance and identifying areas for improvement.
 

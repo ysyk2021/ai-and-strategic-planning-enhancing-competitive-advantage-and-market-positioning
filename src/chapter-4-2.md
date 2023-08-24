@@ -1,5 +1,3 @@
-Market and Competitive Intelligence Data
-======================================================================================================
 
 In this chapter, we'll explore the importance of collecting and analyzing market and competitive intelligence data for strategic planning. With the rise of AI-based strategic planning, market and competitive intelligence data have become even more critical for organizations looking to gain a competitive advantage and improve their market positioning.
 

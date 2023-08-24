@@ -1,5 +1,3 @@
-Scenario Planning and Simulation Modeling
-=========================================================================================================
 
 In this chapter, we'll explore AI-based strategic planning techniques and strategies, specifically scenario planning and simulation modeling. These tools allow organizations to model different scenarios and predict outcomes, providing insights into the potential impact of various strategic decisions.
 
